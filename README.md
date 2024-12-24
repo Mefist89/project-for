@@ -1,1 +1,1 @@
-[Link] (https://mefist89.github.io/project-for/index.html)
+[Link](https://mefist89.github.io/project-for/)
